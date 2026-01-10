@@ -1,1 +1,72 @@
-hello
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuộc Thi Tiếng Anh Online</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+
+<body>
+
+    <div id="login-container">
+        <div class="logo-header">
+            <!-- <img src="LOGOANHAI.png" alt="Logo Trung Tâm 1" class="academy-logo"> -->
+            <img src="LogoDory.jpg" alt="Logo Trung Tâm 2" class="academy-logo">
+        </div>
+        <h2>Đăng Nhập Hệ Thống Thi</h2>
+        <p class="sub-title">Kỳ thi tổng hợp Khối 5 - 15 Phút</p>
+
+        <div class="input-group">
+            <input type="text" id="student-name" placeholder="Họ và Tên">
+            <input type="text" id="student-class" placeholder="Lớp">
+            <input type="text" id="student-sbd" placeholder="Số Báo Danh (SBD)">
+            <input type="password" id="student-password" placeholder="Mật khẩu (Ngày sinh ddmmyyyy)">
+        </div>
+
+        <button id="start-btn">Vào Thi Ngay</button>
+        <p id="login-message" class="message"></p>
+    </div>
+
+    <div id="quiz-container" class="hidden">
+        <div class="quiz-header">
+            <div class="header-info">
+                <h3>Bài Thi Tổng Hợp</h3>
+                <p style="font-size: 0.9em; color: #666;">Thí sinh lưu ý thời gian làm bài</p>
+            </div>
+            <div id="timer">
+                Thời gian còn lại: <span id="time-left">15:00</span>
+            </div>
+        </div>
+
+        <div id="questions-wrapper">
+        </div>
+
+        <div id="questions-wrapper">
+        </div>
+
+        <div class="control-bar">
+            <button id="early-submit-btn" class="secondary-btn">Nộp bài ngay</button>
+
+            <button id="next-btn" class="primary-btn">Câu tiếp theo ➜</button>
+        </div>
+    </div>
+
+    <div id="result-container" class="hidden">
+        <div class="result-box">
+            <h2>Kết Quả Nộp Bài</h2>
+            <div class="result-icon">📝</div>
+            <p id="result-message" class="message"></p>
+            <p id="result-detail" style="color: #555; margin-top: 10px;"></p>
+            <p style="font-size: 0.8em; color: #888; margin-top: 20px;">Hệ thống đã ghi nhận kết quả. Bạn có thể tắt
+                trình duyệt.</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
