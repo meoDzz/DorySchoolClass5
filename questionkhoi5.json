@@ -1098,7 +1098,7 @@
                   "question": "Rearrange the words to make complete sentences:",
                   "questionType": "rearrange_words",
                   "words": [
-                        "Uncle Sam", "pilot.", "works", "as", "a"                
+                        "Uncle Sam", "pilot.", "works", "as","a"
                    ],
                   "answer": " Uncle Sam works as a pilot."
             },
@@ -1839,9 +1839,427 @@
                         "roind"
                    ],
                   "answer": "round"
+            },
+  {
+                  "id": 151,
+                  "question": "Listen and choose the correct answer: Where does Nam live? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau1.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. 51 Tran Hung Dao Street",
+                        "b. 15 Tran Hung Dao Street",
+                        "c. 51 Quang Trung Street"
+                  ],
+                  "answer": " a. 51 Tran Hung Dao Street "
+            },
+
+           {
+                  "id": 152,
+                  "question": "Listen and choose the correct answer: What does Mai do in the morning? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau2.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. cook dinner",
+                        "b. do morning exercise",
+                        "c. play badminton"
+                  ],
+                  "answer": " b. do morning exercise "
+            },
+{
+                  "id": 153,
+                  "question": "Listen and choose the correct answer: How did Linda go to the countryside? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau3.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. by train",
+                        "b. by taxi",
+                        "c. by bus"
+                  ],
+                  "answer": " c. by bus "
+            },
+
+{
+                  "id": 154,
+                  "question": "Listen and choose the correct answer: How often does the speaker have English? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau4.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. twice a week",
+                        "b. four times a week",
+                        "c. every day"
+                  ],
+                  "answer": " b. four times a week "
+            },
+{
+                  "id": 155,
+                  "question": "Listen and choose the correct answer: What is Peter reading? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau5.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. Aladdin",
+                        "b. Snow White",
+                        "c. The Story of Mai An Tiem"
+                  ],
+                  "answer": " c. The Story of Mai An Tiem "
+            },
+{
+                  "id": 156,
+                  "question": "Listen and choose the correct answer: Where will they go this summer? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau6.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. Ha Long Bay",
+                        "b. Phu Quoc Land",
+                        "c. Da Lat"
+                  ],
+                  "answer": " a. Ha Long Bay "
+            },
+{
+                  "id": 157,
+                  "question": "Listen and choose the correct answer: Why does he want to be a pilot? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau7.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. to look after patients",
+                        "b. to fly a plane",
+                        "c. to write stories"
+                  ],
+                  "answer": " b. to fly a plane "
+            },
+{
+                  "id": 158,
+                  "question": "Listen and choose the correct answer: Where is Akiki from? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau8.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. Viet Nam",
+                        "b. American",
+                        "c. Japan"
+                  ],
+                  "answer": " c. Japan "
+            },
+{
+                  "id": 159,
+                  "question": "Listen and choose the correct answer: What animals did the speaker see at the zoo? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau9.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. lions",
+                        "b. peacocks",
+                        "c. tigers"
+                  ],
+                  "answer": " b. peacocks "
+            },
+{
+                  "id": 160,
+                  "question": "Listen and choose the correct answer: What's the matter with Tony? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau10.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. fever",
+                        "b. headache",
+                        "c. sore throat"
+                  ],
+                  "answer": " c. sore throat "
+            },
+
+{
+                  "id": 161,
+                  "question": "Listen and choose the correct answer: What does the sister do in her free time? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau11.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. go fishing",
+                        "b. cook dinner",
+                        "c. surf the internet"
+                  ],
+                  "answer": " b. cook dinner "
+            },
+{
+                  "id": 162,
+                  "question": "Listen and choose the correct answer: Where is the post office? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau12.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. opposite the pharmacy",
+                        "b. next to the cinema",
+                        "c. between the supermarket and the bank"
+                  ],
+                  "answer": " a. opposite the pharmacy "
+            },
+
+{
+                  "id": 163,
+                  "question": "Listen and choose the correct answer: What will the weather be like tomorrow? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau13.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. hot and sunny ",
+                        "b. cold and snowy",
+                        "c. cloudy and rainy"
+                  ],
+                  "answer": " b. cold and snowy "
+            },
+
+{
+                  "id": 164,
+                  "question": "Listen and choose the correct answer: How can he get to the stadium? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau14.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. by bus",
+                        "b. by taxi",
+                        "c. on foot"
+                  ],
+                  "answer": " b. by taxi "
+            },
+{
+                  "id": 165,
+                  "question": "Listen and choose the correct answer: Why shouldn't the boy play with the knife? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau15.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. He may get a burn",
+                        "b. He may fall off his sbike",
+                        "c. He may cut himself"
+                  ],
+                  "answer": " c. He may cut himself "
+            },
+{
+                  "id": 166,
+                  "question": "Listen and choose the correct answer: Don't ____ your bike too fast. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau16.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. drive",
+                        "b. ride",
+                        "c. move"
+                  ],
+                  "answer": " b. ride "
+            },
+{
+                  "id": 167,
+                  "question": "Listen and choose the correct answer: I think the older brother is very _______. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau17.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. greendy",
+                        "b. grandy",
+                        "c. greedy"
+                  ],
+                  "answer": " c. greedy "
+            },
+{
+                  "id": 168,
+                  "question": "Listen and choose the correct answer: I'd like to be a ____ in the future. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau18.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. doctor",
+                        "b. nurse",
+                        "c. nice"
+                  ],
+                  "answer": " c. nurse "
+            },
+{
+                  "id": 169,
+                  "question": "Listen and choose the correct answer: It's often ____ in autumn in my city. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau19.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. coldy",
+                        "b. cloudy",
+                        "c. cooly"
+                  ],
+                  "answer": " b. cloudy"
+            },
+{
+                  "id": 170,
+                  "question": "Listen and choose the correct answer: The cinema is at the _____ of the street. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau20.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. and",
+                        "b. an",
+                        "c. end"
+                  ],
+                  "answer": " c. end "
+            },
+{
+                  "id": 171,
+                  "question": "Listen and choose the correct answer: I'd like a ____ of orange juice, please. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau21.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. grass",
+                        "b. glass",
+                        "c. cup "
+                  ],
+                  "answer": " b. glass "
+            },
+{
+                  "id": 172,
+                  "question": "Listen and choose the correct answer: What did you do there? - I _____ the old buildings. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau22.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. visit",
+                        "b. visits",
+                        "c. visits"
+                  ],
+                  "answer": " c. visited "
+            },
+
+{
+                  "id": 173,
+                  "question": "Listen and choose the correct answer: Do you live in this _____ ? - No, I don't. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau23.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. building",
+                        "b. housing",
+                        "c. drinking"
+                  ],
+                  "answer": " a. building "
+            },
+{
+                  "id": 174,
+                  "question": "Listen and choose the correct answer: My village is quiet and ______. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau24.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. useful",
+                        "b. beauty",
+                        "c. beautiful"
+                  ],
+                  "answer": " c. beautiful "
+            },
+{
+                  "id": 175,
+                  "question": "Listen and choose the correct answer: Why do you like doing projects? - Because it's ____ for group work. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau25.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. well ",
+                        "b. good ",
+                        "c. nice "
+                  ],
+                  "answer": " b. good "
+            },
+{
+                  "id": 176,
+                  "question": "Listen and choose the correct answer: How much ____ do you drink every day? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau26.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. water",
+                        "b. juice",
+                        "c. wine"
+                  ],
+                  "answer": " a. water "
+            },
+
+{
+                  "id": 177,
+                  "question": "Listen and choose the correct answer: Which place would you like to visit, Ben Thanh Market or the ____ Museum? ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau27.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. Building",
+                        "b. History",
+                        "c. Historical"
+                  ],
+                  "answer": " b. History "
+            },
+
+{
+                  "id": 178,
+                  "question": "Listen and choose the correct answer: What did you do yesterday? - I ____ hide and seek. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau28.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. play",
+                        "b. plays",
+                        "c. played"
+                  ],
+                  "answer": " c. played "
+            },
+
+{
+                  "id": 179,
+                  "question": "Listen and choose the correct answer: My father often ____ fishing at the weekend. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau79.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. go",
+                        "b. goes",
+                        "c. does"
+                  ],
+                  "answer": " b. goes "
+            },
+{
+                  "id": 180,
+                  "question": "Listen and choose the correct answer: What are the ____ like? - They roar loudly. ",
+                  "questionType": "multiple_choice",
+                  "audio": "nghekhoi5/nghecau30.mp3",
+                  "limitListen": true,
+                  "options": [
+                        "a. lions",
+                        "b. tigers",
+                        "c. tegers"
+                  ],
+                  "answer": " b. tigers "
             }
       ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
