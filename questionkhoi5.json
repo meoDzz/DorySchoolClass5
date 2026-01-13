@@ -248,9 +248,9 @@
                         "worker",
                         "teacher",
                         "writer",
-                        "cooker"
+                        "cook"
                   ],
-                  "answer": "cooker"
+                  "answer": "cook"
             },
 {
                 "id": 19,
@@ -296,7 +296,7 @@
             },
 {
                 "id": 22,
-                  "question": "Choose the word that has the underlined letter pronounced differently.",
+                  "question": "Choose the word that has the letter \"u\" pronounced differently:",
                   "image": "",
                   "questionType": "multiple_choice",
                   "optionType": "text",
@@ -320,7 +320,7 @@
                         "tall",
                         "long"
                   ],
-                  "answer": "long"
+                  "answer": "old"
             },
 
 {
@@ -501,7 +501,7 @@
                         "No, there isn't",
                         "No, it isn't",
                         "No, hasn't",
-                        "No, there isn't"
+                        "No, there is"
                   ],
                   "answer": "No, there isn't"
             },
@@ -2127,7 +2127,7 @@
                   "options": [
                         "a. visit",
                         "b. visits",
-                        "c. visits"
+                        "c. visited"
                   ],
                   "answer": " c. visited "
             },
@@ -2217,7 +2217,7 @@
                   "id": 179,
                   "question": "Listen and choose the correct answer: My father often ____ fishing at the weekend. ",
                   "questionType": "multiple_choice",
-                  "audio": "nghekhoi5/nghecau79.mp3",
+                  "audio": "nghekhoi5/nghecau29.mp3",
                   "limitListen": true,
                   "options": [
                         "a. go",
